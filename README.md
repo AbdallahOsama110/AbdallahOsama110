@@ -1,27 +1,37 @@
-<h1 align="center">Hi 👋, I'm Abdallah Osama</h1>
+<!-- Animated Header Banner -->
+<div align="center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,14,27,1&height=200&section=header&text=Abdallah%20Osama&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Mobile%20App%20Developer%20|%20Flutter%20Developer&descAlignY=55&descSize=20"/>
+</div>
+
+
+<!-- Animated Typing -->
+<div align="center">
+    <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=30&duration=3000&pause=1000&color=00E7FF&center=true&vCenter=true&width=435&lines=Flutter+Developer;Mobile+App+Developer;Software+Developer" alt="Typing SVG"/>
+    </a>
+</div>
 
 ###
-
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="60" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="60" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="60" alt="dart logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="60" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="60" alt="sqlite logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="6%" alt="flutter logo"  />
+  <img width="1%" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="6%" alt="firebase logo"  />
+  <img width="1%" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="6%" alt="dart logo"  />
+  <img width="1%" />
+  <img src="https://skillicons.dev/icons?i=py" width="6%" alt="python logo"  />
+  <img width="1%" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="6%" alt="cplusplus logo"  />
+  <img width="1%" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="6%" alt="git logo"  />
+  <img width="1%" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="6%" alt="sqlite logo"  />
+  <img width="1%" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="6%" alt="html5 logo"  />
+  <img width="1%" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="6%" alt="javascript logo"  />
+  <img width="1%" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="6%" alt="css logo"  />
 </div>
 
 ###
@@ -46,7 +56,7 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=AbdallahOsama110&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph" /> <br>
-  <img src="https://github-profile-trophy.vercel.app?username=AbdallahOsama110&theme=tokyonight&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=true&order=4" height="150" alt="trophy graph"  />
+  <!-- <img src="https://github-profile-trophy.vercel.app?username=AbdallahOsama110&theme=tokyonight&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=true&order=4" height="150" alt="trophy graph"  /> -->
 </div>
 
 ###
@@ -59,6 +69,28 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/AbdallahOsama110/AbdallahOsama110/output/snake.svg" alt="Snake animation" />
+<h3 align="center">✨ Latest Projects ✨</h3>
+<p align="center">
+  <a href="https://github.com/MindOptimizers1/intervysor">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MindOptimizers1&repo=intervysor&theme=tokyonight&hide_border=true" />
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/AbdallahOsama110/snap_diet">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AbdallahOsama110&repo=snap_diet&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/AbdallahOsama110/islam_app">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AbdallahOsama110&repo=islam_app&theme=tokyonight&hide_border=true" />
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/AbdallahOsama110/shop_api_app">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AbdallahOsama110&repo=shop_api_app&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
 
 ###
+
+<!-- Footer -->
+<div align="center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,14,27,1&height=100&section=footer"/>
+</div>
